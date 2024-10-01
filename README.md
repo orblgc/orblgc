@@ -18,7 +18,8 @@ I'm a **full-stack developer** with a passion for building efficient and innovat
 
 ---
 
-🚀 Highlight Projects:
+### **🚀 Highlight Projects:
+
 💰 Crypto Currencies App & Bot (In Proggress)
 A cryptocurrency tracking and trading bot application built with Node.js, Python, and Machine Learning. It integrates data from TradingView API and a custom API for detecting market indicators (e.g., SMA, Golden Cross, Death Cross) for real-time analysis. The bot uses Binance API to automatically manage buy/sell or long/short positions based on these indicators. Future plans include machine learning with LSTM neurons to improve trading decisions.
 
