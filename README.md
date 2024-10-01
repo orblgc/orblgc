@@ -71,8 +71,8 @@ Built a marketplace for doctors and hospitals using Oracle APEX, PL/SQL, and HTM
 
 ### **💬 Get in Touch:**
 
-- **Website**: [My Portfolio]([https://yourwebsite.com](https://www.orkun.ordibu.com/))  
+- **Website**: [My Portfolio](https://www.orkun.ordibu.com/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/orkun-tun%C3%A7-bilgi%C3%A7-03b386113/)  
-- **Email**: [your-email@example.com](mailto:orkunbl@hotmail.com)
+- **Email**: [Mail Address](mailto:orkunbl@hotmail.com)
 
 ---
