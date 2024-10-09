@@ -36,7 +36,7 @@ A cryptocurrency tracking and trading bot application built with Node.js, Python
 # Status: ⏳ (In Proggress)
 Developed a complete sales application and website using Oracle APEX, Oracle Cloud, Node.js, and Linux. The website is hosted via Nginx, featuring an SMTP mail service running as a Node.js background process. Additionally, it uses a reverse proxy to manage Oracle Cloud's database URLs, ensuring a seamless user experience.
 
-##🩺 Health Check App 
+## 🩺 Health Check App 
 ### Status: ✅  (Done !)
 A tool that checks the status of servers and Linux services using Node.js and Shell scripts. It visualizes the service status through an Oracle APEX interface, offering an at-a-glance view of the health of key infrastructure components.
 
