@@ -11,7 +11,7 @@ I'm a **full-stack developer** with a passion for building efficient and innovat
 - **Languages**: JavaScript, PL/SQL, SQL, Node.js, C#, Java  
 - **Frameworks & Libraries**: Oracle APEX, React, Express.js  
 - **Database Management**: Oracle, SQL Server, MySQL  
-- **DevOps Tools**: CI/CD, Nginx, Linux  
+- **DevOps Tools**: CI/CD, Nginx, Linux, Gitlab & Runners - Self Hosted, Jenkins, Docker  
 - **Cloud Platforms**: Oracle Cloud, AWS, Google Cloud
 - **APIs**: Microsoft Graph API, RESTful APIs  
 - **Automation**: Service Automation with Linux, Test Automation with Cypress, Selenium  
