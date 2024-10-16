@@ -28,6 +28,22 @@ I'm a **full-stack developer** with a passion for building efficient and innovat
 
 # 🚀 Highlight Projects:
 
+## ⚙️ Using Gitlab for Repo & CI/CD
+#### Status: ✅  (Done !)
+Before this implementation, i was using github webhooks to trigger my webhook nodejs service which was running shell script in server like a CI/CD but this was not a common way to do that kind of things.
+
+So I created 3 Linux servers: CICD, DEV, and PROD servers. On the CICD server, I installed GitLab and Jenkins. Initially, I tried Jenkins and installed Jenkins agents on the DEV and PROD servers. However, using a webhook for integration with GitLab didn’t seem very efficient also management of two different system is a bit difficult. Therefore, I installed GitLab runners on the DEV and PROD servers. I registered these runners with the GitLab instance on the CICD server using authentication tokens. This way, I can automatically trigger releases through GitLab by defining pipeline files in the .gitlab-ci.yml for events like pushes and merges to GitLab repositories.
+
+If i need to setup these project on a completely new server first thing to do manually would be only installation of gitlab-runner then registering it to my gitlab, then all i need to do is create new branch for that server then merge the installation repository which is for installing necessary packages on system like nginx, nodejs, python, certbot etc. Then i can directly push my api projects on their new branches.
+
+Example Scenario
+When I push a Node.js API development to the dev branch in GitLab, the pipeline is triggered and performs certain tasks on the DEV server. These tasks include:
+
+Copy the Nginx configuration file from the repository to the nginx/conf.d folder for the project.
+Obtain an automatic SSL certificate using Certbot for the Nginx configuration. If a certificate already exists, it uses the existing one.
+Create and start a Linux systemd service with the project’s folder name.
+With this example scenario, we successfully deployed to the development environment. After necessary tests are completed, we can merge the project into the production environment and similarly trigger an automatic release and deployment there as well.
+
 ## 💰 Crypto Currencies App & Bot 
 #### Status: ⏳ (In Proggress)
 A cryptocurrency tracking and trading bot application built with Node.js, Python, and Machine Learning. It integrates data from TradingView API and a custom API for detecting market indicators (e.g., SMA, Golden Cross, Death Cross) for real-time analysis. The bot uses Binance API to automatically manage buy/sell or long/short positions based on these indicators. Future plans include machine learning with LSTM neurons to improve trading decisions.
