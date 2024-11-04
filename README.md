@@ -21,7 +21,6 @@ I'm a **full-stack developer** with a passion for building efficient and innovat
 # **📶 My APIs:**
 
 - **Crypto Trading Indicator Analysis**: [Try API](https://rapidapi.com/orblgc/api/crypto-trading-indicator-analysis)
-- **Currencies And Countries**: [Try API](https://rapidapi.com/orblgc/api/currencies-and-countries)
 - **Create Game Rooms**: [Try API](https://rapidapi.com/orblgc/api/create-game-rooms)
   
 ---
