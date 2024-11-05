@@ -108,7 +108,7 @@ Built a marketplace for doctors and hospitals using Oracle APEX, PL/SQL, and HTM
 - **Website**: [My Portfolio](https://orkun.ordibu.com/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/orkun-tun%C3%A7-bilgi%C3%A7-03b386113/)  
 - **Email**: [Mail Address](mailto:orkunbl@hotmail.com)
-- **Phone**: [+905464034708](tel:+905464034708)
+- **Phone**: +905464034708
 - **GitLab**: [My GitLab Profile](https://gitlab.ordibu.com/orblgc)
 
 
