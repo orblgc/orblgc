@@ -97,9 +97,9 @@ Built a marketplace for doctors and hospitals using Oracle APEX, PL/SQL, and HTM
 
 # **📄 Certifications:**
 
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4C5B5F177724BEE9A877845FB625A8E46F7DC9D75FDE540E18C8D7F8D0285181)  - Expire Date: August 30, 2025
-- [Oracle APEX Cloud Developer Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64929BF8AC76F2A984A3AD890D4FCBC1F930CD4A723DA8A98CE331C4D5D1E42D) - Expire Date: No Expire Date
-- Quality Engineering and Management - Bilginet Academy 
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4C5B5F177724BEE9A877845FB625A8E46F7DC9D75FDE540E18C8D7F8D0285181)  / *Expire Date: August 30, 2025*
+- [Oracle APEX Cloud Developer Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=64929BF8AC76F2A984A3AD890D4FCBC1F930CD4A723DA8A98CE331C4D5D1E42D) / *Expire Date: No Expire Date*
+- Quality Engineering and Management - Bilginet Academy / *Expire Date: No Expire Date*
 
 ---
 
