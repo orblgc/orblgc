@@ -83,9 +83,9 @@ Developed a mobile stock control application using Xamarin Forms for Google Clou
 #### Status: ✅  (Done !)
 Created a socket server using Node.js for real-time group chat functionality. This project integrates with AWS and React Native for front-end messaging.
 
-## 🏥 Hospital Management Application
+## 🏥 Appointment Management Application
 #### Status: 🛑 (Not in Use)
-Built a marketplace for doctors and hospitals using Oracle APEX, PL/SQL, and HTML/CSS to manage appointments and patient records.
+Management of appointments and patient records.
 
 ---
 
