@@ -98,9 +98,6 @@ Management of appointments and patient records.
 
 - **Website**: [Portfolio](https://orkun.ordibu.com/)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/orkun-tun%C3%A7-bilgi%C3%A7-03b386113/)  
-- **Email**: [orkunbl@hotmail.com](mailto:orkunbl@hotmail.com)
-- **Phone**: [+90 546 403 47 08](tel:+905464034708)
-- **GitLab**: [GitLab Profile](https://gitlab.ordibu.com/orblgc)
 
 
 ---
